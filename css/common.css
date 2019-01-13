@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+*{
+  font-family: 'Titillium Web', sans-serif !important;
+}
+
+body{
+  max-width: 769px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 0 15px;
+}
+
+.truncate {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.text-center{
+  text-align: center;
+}
+.padding-5px{
+  padding: 5px;
+}
+/*md-tabs [role="tabpanel"] {
+    transition: none;
+}*/
+md-content{
+  background-color: #fff;
+}
