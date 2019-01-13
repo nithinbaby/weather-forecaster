@@ -14,7 +14,7 @@
 .indicator{
   width: 100%;
   height: 100%;
-  background-color: green; /* For browsers that do not support gradients */
+  background-color: #ccc; /* For browsers that do not support gradients */
   background-image: linear-gradient(green, yellow, red); /* Standard syntax (must be last) */  
 }
 .quality-index{
