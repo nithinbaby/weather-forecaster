@@ -1,3 +1,3 @@
 # weather-forecaster
 
-Displays a guage showing weather index at different locations of world
+Dispalys a guage showing weather index at different locations of world
